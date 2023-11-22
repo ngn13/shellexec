@@ -1,0 +1,7 @@
+{
+    "process_check": false,
+    "debug_check": true,
+    "vm_check": false,
+    "fake_error": true,
+    "debug": false
+}

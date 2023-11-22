@@ -1,0 +1,7 @@
+x64/
+Release/
+src/x64/
+src/config.cpp
+*.bin
+*.json
+.vs
