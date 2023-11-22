@@ -1,9 +1,6 @@
-<h1 align="center">
-  <img src="assets/showcase.png"/>  
-  <br>
-  <br>
-  shellexec | shellcode launcher  
-</h1>
+# shellexec | shellcode launcher  
+
+<img src="assets/showcase.png" width=900/>  
 
 Just a little shellcode launcher that I put together, written in C(++)
 
